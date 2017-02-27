@@ -1,0 +1,79 @@
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.Properties.Resources.resources
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.dll
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.pdb
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCiudad.resources
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCliente.resources
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.CONSULTAS.resources
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.FUNCIONES.resources
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.MenuTelefoniaCelular.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\ProyectoBasesII\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.dll
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.CONSULTAS.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.MenuTelefoniaCelular.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.FUNCIONES.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCiudad.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCliente.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.Properties.Resources.resources
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.CONSULTAS.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.MenuTelefoniaCelular.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.FUNCIONES.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCiudad.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCliente.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.Properties.Resources.resources
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.dll
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\BLL.pdb
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.CONSULTAS.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.MenuTelefoniaCelular.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.FUNCIONES.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCiudad.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCliente.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.Properties.Resources.resources
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julio Luna\Desktop\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.exe
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.pdb
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.CONSULTAS.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.MenuTelefoniaCelular.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.FUNCIONES.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCiudad.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.InsertCliente.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.Properties.Resources.resources
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\TelefoniaCelular3CWindows\obj\x86\Debug\TelefoniaCelular3CWindows.csproj.GenerateResource.Cache

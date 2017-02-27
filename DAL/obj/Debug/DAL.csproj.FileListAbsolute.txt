@@ -1,0 +1,23 @@
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Proyecto\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\bin\Debug\DAL.pdb
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.dll
+C:\Users\Julio Luna\Desktop\Julio César\Universidad\Bases de datos II\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.pdb
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.dll
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Proyecto TelefoniaCelular3C\ProyectoBasesII(JulioLuna--GabrielMuñoz)\Aplicación\TelefoniaCelular3CWindows\DAL\obj\Debug\DAL.pdb
